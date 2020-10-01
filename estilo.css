@@ -1,0 +1,104 @@
+
+   body{
+     background-color: #00abdf;/*fundo azul*/
+     background-image: url(" ")  ;
+     background-repeat: no-repeat;
+     background-position: center;
+    line-height: 150%;
+      	margin: 0 auto;
+      	padding: 0 0px 0px 0px;
+     overflow-x: hidden;
+ 
+
+
+   }
+   #div{
+   	width: 100%;
+   	height: 1400px;
+   	margin-top: none;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+   }
+#div1{
+	margin-top: none;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+ #img1{
+    width: 15%; /*largura*/
+    float: left;/*flutuar para esquerda*/
+    
+    }
+    #img2{
+    	width: 98%;
+height: 298px;
+margin-top: 150px;
+
+    }
+    #div2{
+
+   
+   width: 100%;
+   height: 50%;
+   	background-image: url("div3.png")  ;
+        
+background-repeat: no-repeat;
+
+	margin-top: none;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+#menu{
+	position: fixed;
+	float: left;
+	    --ext-bar-ft-famaly: "Roboto", sans-serif;
+    width:12% ;
+    height: 50% ;
+    top: 20%;
+    background: url(menu1.png) top center no-repeat;
+   margin-left: 1%;
+
+}
+a{
+    color: #000;
+	text-decoration: none;
+
+
+}
+a:hover{
+	text-decoration: underline;
+	color: #00abdf;
+}
+ul {
+	font:  100% Eraser ,Comic Sans MS, Comic Sans, cursive;
+	/*font-weight: 900;/*/
+        list-style: none outside none;
+ 
+    width: ;
+}
+@font-face {
+     font-family: Eraser;
+     src: url('Eraser.ttf');
+}
+
+h4{ 
+	
+  float:left;
+   
+	color: black;
+
+	font:   285px/53px Eraser ,Comic Sans MS, Comic Sans, cursive;
+}
+#icon{
+	float: right;
+}
+#redes{
+	width: 20px;
+	height: 20px;
+}
